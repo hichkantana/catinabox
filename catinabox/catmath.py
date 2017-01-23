@@ -1,6 +1,6 @@
 NUM_HOOMAN_YEARS_IN_CAT_YEAR = 5
 
-# comment
+
 def cat_years_to_hooman_years(age_in_cat_years):
     """Converts the cat's age to the equivalent in hooman years.
 
