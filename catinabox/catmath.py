@@ -1,3 +1,4 @@
+# num of years
 NUM_HOOMAN_YEARS_IN_CAT_YEAR = 5
 
 
